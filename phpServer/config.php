@@ -1,5 +1,9 @@
 <?php
-('config.php'); 
+/** Stachelfrucht Konfiguration
+* Server Verbindungseinstellungen
+* Lokale Datenbank
+* Zugang zur Datenbank
+*/
 
 // Damit alle Fehler angezeigt werden
 error_reporting(E_ALL);
